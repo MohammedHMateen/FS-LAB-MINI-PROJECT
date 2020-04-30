@@ -1,0 +1,6 @@
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.MyForm1.resources
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.MyForm2.resources
+C:\Users\Windows 8.1\source\repos\Project1\Project1\Debug\Project1.Details.resources

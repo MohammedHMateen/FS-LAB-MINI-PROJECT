@@ -1,0 +1,14 @@
+---------------------------Ticket Details------------------------------------------
+      TicketID	        Name	    Train Number	       Destination
+	0	|	Srinivasa	|	ST105	|	Bangalore	|
+	1	|	Srinivasa	|	ST105	|	Bangalore	|
+	2	|	Veena	|	ST105	|	Bangalore	|
+	3	|	Srinivasa	|	ST105	|	Bengaluru	|
+	4	|	Srinvasa	|	TS105	|	Bengaluru	|
+	4	|	Srinivasa	|	TS105	|	Bengaluru	|
+	4	|	Srinivasa	|	ST105	|	Bengaluru	|
+	1	|	fefea	|	fewf	|	fewf	|
+	2	|	fewfw	|	efwaf	|	fewegf	|
+	4	|	Srinivasa	|	ST105	|	Bengaluru	|
+		|		|		|		|
+		|		|		|		|
